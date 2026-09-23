@@ -1,0 +1,165 @@
+.btn-primary {
+    padding: 0.5rem 1.5rem;
+}
+
+.btn-primary-login {
+    background-color: #1d191a !important;
+    border-color: #1d191a !important;
+}
+
+    .btn-primary-login:hover {
+        background-color: #1d191a !important;
+        border-color: #1d191a !important;
+    }
+
+    .btn-primary-login:active {
+        background-color: #1d191a !important;
+        border-color: #1d191a !important;
+    }
+
+.m-t-25 {
+    margin-top: 25px;
+}
+
+tbody td {
+    padding: 0.5rem 0.6rem !important;
+}
+
+    tbody td:first-child {
+        padding-left: 30px !important;
+    }
+
+
+.form-switch .form-check-input {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='%23a59cd9'/%3e%3c/svg%3e");
+}
+
+/* header notification section*/
+.notificationScroll {
+    max-height: 250px;
+    overflow: hidden scroll;
+}
+
+    .notificationScroll::-webkit-scrollbar {
+        width: 3px !important;
+    }
+
+    .notificationScroll::-webkit-scrollbar-track {
+        background: #fff;
+    }
+
+    .notificationScroll::-webkit-scrollbar-thumb {
+        background: #ccc;
+    }
+
+
+.note-editor .dropdown-toggle::after {
+    all: unset !important;
+}
+
+.note-editor .note-dropdown-menu {
+    box-sizing: content-box !important;
+}
+
+.note-editor .note-modal-footer {
+    box-sizing: content-box !important;
+}
+
+/*Flat picker css*/
+.flatpickr-weekdays {
+    background: #4b38b3;
+}
+
+span.flatpickr-weekday {
+    color: #fff;
+}
+
+.flatpickr-weekdays {
+    background: #4b38b3;
+}
+
+.flatpickr-current-month {
+    color: #fff;
+}
+
+.flatpickr-prev-month svg {
+    fill: #fff;
+}
+
+.flatpickr-next-month svg {
+    fill: #fff;
+}
+
+.flatpickr-day.selected {
+    background: #4b38b3;
+    color: #fff;
+    border: 1px solid #4b38b3;
+}
+
+    .flatpickr-day.selected:hover, .flatpickr-day.selected:focus {
+        background: #4b38b3;
+        color: #fff;
+        border: 1px solid #4b38b3;
+    }
+
+.flatpickr-current-month .numInputWrapper span.arrowDown:after {
+    border-top-color: #fff;
+}
+
+.flatpickr-current-month .numInputWrapper span.arrowUp:after {
+    border-bottom-color: #fff;
+}
+
+
+.airmode .note-editable {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 150px;
+    padding: 10px !important;
+}
+
+/*fSelect css*/
+.fs-wrap {
+    width: 100%;
+}
+
+
+    .fs-wrap .fs-dropdown {
+        width: 100%;
+    }
+
+.fs-label-wrap {
+    border: 1px solid #ccc;
+    border-radius: .25rem !important;
+}
+
+    .fs-label-wrap .fs-label {
+        padding: 3px 22px 3px 8px;
+    }
+
+.fs-wrap.multiple .fs-option {
+    background: rgb(75 56 179 / 25%);
+    color: #000;
+}
+
+    .fs-wrap.multiple .fs-option:hover {
+        background: rgb(75 56 179 / 69%);
+        color: #000;
+    }
+
+    .fs-wrap.multiple .fs-option.selected .fs-checkbox i {
+        background-color: rgb(75 56 179);
+    }
+
+.tox-promotion {
+    display: none !important;
+}
+.choicsq__list--dropdown {
+    z-index: 99 !important;
+}
+/*table.dataTable{
+    width:100%!important;
+}
+.dataTablsq_scrollHeadInner{
+    width:100%!important;
+}*/

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Aura-landing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\our-contact-us\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:our-contact-us\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\our-contact-us\\MasterPage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:our-contact-us\\MasterPage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\our-contact-us\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:our-contact-us\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\our-contact-us\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:our-contact-us\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\our-contact-us\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:our-contact-us\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\landing-page\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:landing-page\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\faq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:faq.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\contact-us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact-us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Aura-landing\\about-us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about-us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\our-contact-us\\js\\main.js",
+              "RelativeDocumentMoniker": "our-contact-us\\js\\main.js",
+              "ToolTip": "D:\\Projects\\Aura-landing\\our-contact-us\\js\\main.js",
+              "RelativeToolTip": "our-contact-us\\js\\main.js",
+              "ViewState": "AgIAAKIDAAAAAAAAAAApwMgDAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-08-07T04:55:57.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\our-contact-us\\css\\styles.css",
+              "RelativeDocumentMoniker": "our-contact-us\\css\\styles.css",
+              "ToolTip": "D:\\Projects\\Aura-landing\\our-contact-us\\css\\styles.css",
+              "RelativeToolTip": "our-contact-us\\css\\styles.css",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAgwKIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-07T04:55:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\our-contact-us\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "our-contact-us\\Default.aspx.cs",
+              "ToolTip": "D:\\Projects\\Aura-landing\\our-contact-us\\Default.aspx.cs",
+              "RelativeToolTip": "our-contact-us\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T04:54:13.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\our-contact-us\\MasterPage.master",
+              "RelativeDocumentMoniker": "our-contact-us\\MasterPage.master",
+              "ToolTip": "D:\\Projects\\Aura-landing\\our-contact-us\\MasterPage.master",
+              "RelativeToolTip": "our-contact-us\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-07T04:52:28.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "faq.aspx",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\faq.aspx",
+              "RelativeDocumentMoniker": "faq.aspx",
+              "ToolTip": "D:\\Projects\\Aura-landing\\faq.aspx",
+              "RelativeToolTip": "faq.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-07T04:50:11.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\our-contact-us\\Default.aspx",
+              "RelativeDocumentMoniker": "our-contact-us\\Default.aspx",
+              "ToolTip": "D:\\Projects\\Aura-landing\\our-contact-us\\Default.aspx",
+              "RelativeToolTip": "our-contact-us\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-07T04:45:57.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\landing-page\\Default.aspx",
+              "RelativeDocumentMoniker": "landing-page\\Default.aspx",
+              "ToolTip": "D:\\Projects\\Aura-landing\\landing-page\\Default.aspx",
+              "RelativeToolTip": "landing-page\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-07T04:45:29.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "contact-us.aspx",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\contact-us.aspx",
+              "RelativeDocumentMoniker": "contact-us.aspx",
+              "ToolTip": "D:\\Projects\\Aura-landing\\contact-us.aspx",
+              "RelativeToolTip": "contact-us.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-07T04:17:38.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\Projects\\Aura-landing\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-07T04:16:43.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "about-us.aspx",
+              "DocumentMoniker": "D:\\Projects\\Aura-landing\\about-us.aspx",
+              "RelativeDocumentMoniker": "about-us.aspx",
+              "ToolTip": "D:\\Projects\\Aura-landing\\about-us.aspx",
+              "RelativeToolTip": "about-us.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-05T05:42:49.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
